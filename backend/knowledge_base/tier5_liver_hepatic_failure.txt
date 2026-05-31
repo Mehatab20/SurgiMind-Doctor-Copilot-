@@ -1,0 +1,56 @@
+TITLE: Liver Failure and Hepatic Encephalopathy – Perioperative Surgical Risk Protocol
+
+CATEGORY: Hepatology | Gastroenterology | Critical Care | Emergency | Transplant Surgery
+
+OVERVIEW:
+Acute liver failure (ALF) is characterised by rapid hepatic dysfunction with coagulopathy (INR ≥ 1.5) and encephalopathy in a patient without pre-existing cirrhosis, presenting within 26 weeks of onset. Acute-on-chronic liver failure (ACLF) represents a syndrome of acute decompensation of cirrhosis with organ failure and 28-day mortality of 30-90%. Both conditions represent the highest-risk scenarios for any surgical intervention due to the convergence of coagulopathy, renal failure, haemodynamic instability, and immune dysfunction.
+
+SURGICAL INDICATIONS:
+- Variceal haemorrhage not responding to endoscopic therapy: emergency TIPS (transjugular intrahepatic portosystemic shunt)
+- Spontaneous bacterial peritonitis (SBP) with secondary perforation: emergency laparotomy (extremely high mortality)
+- Abdominal compartment syndrome from refractory ascites: paracentesis or decompressive laparotomy
+- Cholecystitis with empyema in decompensated cirrhosis: percutaneous cholecystostomy preferred over surgical cholecystectomy
+- Ruptured hepatocellular carcinoma: transarterial embolisation (TAE) preferred; surgery only if haemostasis fails
+- Liver transplantation: definitive treatment for suitable ALF/ACLF candidates (King's College Criteria)
+- Surgical haemostasis for ongoing haemorrhage after interventional radiology failure
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Child-Pugh Class C cirrhosis: 30-day operative mortality 82% for major abdominal surgery
+- MELD score > 20: elective surgery carries > 30% 30-day mortality (MELD-based risk calculator required)
+- Active hepatic encephalopathy Grade III or IV (stupor/coma): unable to consent, aspiration risk
+- INR > 2.0 without reversibility with Vitamin K or FFP (synthetic function too impaired)
+- Total bilirubin > 10 mg/dL with rising trend: progressive hepatic failure
+- Active SBP or bacterial infection not yet treated for minimum 5 days
+- Renal failure (hepatorenal syndrome type 1): creatinine doubling within 2 weeks, poor surgical prognosis
+- Severe thrombocytopenia (< 30,000/mcL from portal hypertension + splenomegaly): unacceptable bleeding risk
+- Refractory ascites requiring > 1 L/day diuretics: impaired wound healing, infection risk, anastomotic failure
+
+PRE-OPERATIVE CHECKLIST:
+1. Child-Pugh score calculation: bilirubin, albumin, INR, ascites grade, encephalopathy grade
+2. MELD score calculation (INR, creatinine, bilirubin): quantifies 90-day mortality risk
+3. Liver function tests: AST, ALT, ALP, GGT, bilirubin (total and direct), albumin
+4. Coagulation panel: INR, PTT, fibrinogen, thromboelastogram (TEG) for surgical planning
+5. Full blood count: haemoglobin, platelets (portal hypertension causes thrombocytopenia)
+6. Renal function: creatinine, eGFR, 24-hour urine sodium (hepatorenal syndrome screening)
+7. Electrolytes: sodium (dilutional hyponatraemia common, target Na > 130 mEq/L)
+8. Blood glucose: hypoglycaemia common in ALF from impaired gluconeogenesis (IV dextrose may be required)
+9. Ammonia level: correlates with encephalopathy grade, guides lactulose and rifaximin therapy
+10. Ultrasound abdomen with Doppler: portal vein patency, spleen size, ascites volume, HCC screening
+11. Upper GI endoscopy: variceal grading and prophylactic banding if high-risk varices present
+12. Hepatology and liver transplant team consultation: suitability for transplant listing
+13. Nutritional assessment: enteral nutrition within 48 hours (malnutrition worsens outcomes)
+14. Infection screen: blood cultures, ascitic fluid MC&S, urine cultures (bacterial infections trigger ACLF)
+15. Prophylactic antibiotics: norfloxacin 400 mg twice daily for SBP prophylaxis in advanced cirrhosis
+16. TIPS consideration: for portal hypertension complications prior to any surgical intervention
+17. Anaesthesiology review: preferred agents in hepatic failure (avoid morphine, halothane; use fentanyl, isoflurane)
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- MELD score > 40: operative mortality approaches 100% for major surgery
+- INR > 3.0 with active haemorrhage and no response to clotting factor replacement: hepatic synthetic failure
+- Hepatic encephalopathy Grade IV with raised ICP (> 25 mmHg measured by ICP monitor): cerebral oedema in ALF is a terminal event
+- Serum ammonia > 200 μmol/L with declining consciousness: cerebral herniation imminent in ALF
+- Multiorgan failure (liver + renal + respiratory): SOFA score > 15 in ACLF predicts near-universal mortality
+- Active variceal haemorrhage with haemodynamic instability: surgical haemostasis in setting of portal hypertension has extremely high mortality
+- Hepatorenal syndrome type 1 (rapidly progressive renal failure): creatinine > 2.5 mg/dL, predicted hospital mortality > 80%
+- Refractory septic shock in cirrhotic patient: no vasopressor responds appropriately due to relative adrenal insufficiency and vasodilatory pathophysiology
+- Prothrombin activity < 10% (INR > 6.0): no surgical haemostasis achievable, transplant or palliation only options

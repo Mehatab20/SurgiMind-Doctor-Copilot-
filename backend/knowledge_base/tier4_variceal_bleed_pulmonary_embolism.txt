@@ -1,0 +1,89 @@
+TITLE: Oesophageal and Gastric Variceal Haemorrhage – Emergency Surgical and Endoscopic Protocol
+
+CATEGORY: Gastroenterology | Hepatology | Emergency | Vascular Surgery | Critical Care
+
+OVERVIEW:
+Variceal haemorrhage occurs from rupture of portosystemic venous collaterals, most commonly oesophageal varices, secondary to portal hypertension in cirrhotic liver disease. It is the most lethal complication of cirrhosis with 6-week mortality of 20-30% per episode. Management requires rapid haemostasis, prevention of infection, and treatment of underlying coagulopathy within the first 12 hours.
+
+SURGICAL INDICATIONS:
+- Endoscopic band ligation (EBL): first-line haemostasis for oesophageal variceal haemorrhage
+- Endoscopic sclerotherapy: alternative if banding technically difficult
+- TIPS (transjugular intrahepatic portosystemic shunt): failure of two endoscopic sessions or high-risk HVPG (> 20 mmHg)
+- Balloon tamponade (Sengstaken-Blakemore tube): bridge to definitive therapy, maximum 24 hours
+- Early TIPS (within 72 hours): for Child-Pugh C (score 10-13) or Child-Pugh B with active bleeding
+- Surgical portosystemic shunt: distal splenorenal shunt for selected patients with patent splenic vein
+- Oesophageal staple transection: last resort salvage procedure with high mortality in active haemorrhage
+- Liver transplantation: definitive management for end-stage liver disease with recurrent variceal bleeding
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active variceal haemorrhage or within 5 days of acute episode
+- Hepatic encephalopathy Grade III/IV
+- INR > 2.5 with ongoing bleeding not corrected by clotting factors
+- Child-Pugh C with MELD > 20 for any elective abdominal surgery
+- Uncontrolled renal failure (creatinine > 3.0 mg/dL)
+- Haemoglobin < 7 g/dL without transfusion to > 8 g/dL pre-operatively
+
+PRE-OPERATIVE CHECKLIST:
+1. Two large-bore IV access; blood type and crossmatch; activate massive transfusion protocol if needed
+2. Full blood count, coagulation panel, LFTs, creatinine, electrolytes, blood group
+3. Restrictive transfusion strategy: pRBC transfusion trigger Hgb < 7 g/dL (target 7-8 g/dL, NOT > 9 – worsens portal pressure)
+4. IV terlipressin 2 mg every 4 hours OR IV octreotide 50 mcg bolus then 50 mcg/h infusion (start immediately, continue 3-5 days)
+5. IV antibiotics: ceftriaxone 1 g daily for 7 days (SBP prophylaxis, proven mortality reduction)
+6. Airway protection: intubate before endoscopy if GCS < 9 or active haematemesis with airway compromise
+7. Urgent upper GI endoscopy: within 12 hours of presentation (within 6 hours if active haemorrhage)
+8. Correct coagulopathy: FFP for INR > 1.5 (if active bleed); avoid excessive correction (may worsen portal pressure)
+9. Platelet transfusion: maintain > 50,000/mcL for active haemorrhage procedures
+10. Avoid beta-blockers acutely during active haemorrhage (hypotension risk)
+11. Hepatic encephalopathy prophylaxis: lactulose 20-30 mL three times daily + rifaximin 550 mg twice daily
+12. ICU admission with invasive monitoring: arterial line, central venous access, Foley catheter
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Haemorrhagic shock with SBP < 80 mmHg unresponsive to resuscitation: tamponade balloon as bridge only
+- Massive haemoptysis or haematemesis with airway flooding: intubation before endoscopy is mandatory
+- INR > 5.0 with active haemorrhage and no clotting factor response: hepatic synthetic failure, transplant evaluation
+- MELD > 35 with variceal haemorrhage: 6-week mortality approaches 70%
+- Oesophageal perforation from balloon tamponade: immediate cardiothoracic surgical emergency
+
+
+TITLE: Acute Pulmonary Embolism – Perioperative Risk Stratification and Surgical Protocol
+
+CATEGORY: Pulmonology | Vascular Surgery | Haematology | Emergency | Cardiology
+
+OVERVIEW:
+Pulmonary embolism (PE) results from thrombus obstruction of the pulmonary arterial circulation, most commonly from deep vein thrombosis (DVT). High-risk PE presenting with haemodynamic instability (systolic BP < 90 mmHg) carries 30-day mortality of 22-65% and constitutes a true surgical emergency. Submassive PE with right ventricular dysfunction, though haemodynamically stable, carries significant mortality without appropriate escalation of therapy.
+
+SURGICAL INDICATIONS:
+- Massive PE with haemodynamic instability (SBP < 90 mmHg): systemic thrombolysis first; if contraindicated → surgical embolectomy or catheter-directed therapy
+- Surgical pulmonary embolectomy: thrombolysis contraindicated or failed, or cardiac arrest from massive PE
+- Catheter-directed thrombolysis (CDT): submassive PE with RV dysfunction and contraindication to systemic lysis
+- IVC filter placement: recurrent PE despite therapeutic anticoagulation, or anticoagulation absolutely contraindicated
+- ECMO as bridge to surgical embolectomy in cardiac arrest or refractory shock
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active PE within 3 months: elective surgery significantly increases recurrent PE risk
+- Therapeutic anticoagulation cannot be safely bridged perioperatively
+- RV dysfunction on echocardiogram (RV:LV ratio > 1.0): elevated perioperative cardiac mortality
+- Troponin elevation in PE (RV myocardial injury): higher in-hospital mortality
+- Haemodynamic instability: SBP < 100 mmHg at rest
+
+PRE-OPERATIVE CHECKLIST:
+1. CT pulmonary angiography (CTPA): diagnostic gold standard, assess clot burden and RV strain
+2. ECG: S1Q3T3 pattern, new RBBB, sinus tachycardia, AF (RV strain signs)
+3. Echocardiography: RV function, RV:LV ratio, D-sign (septal shift), TR velocity (PA pressure estimation)
+4. Troponin I/T: RV myocardial injury marker – elevated troponin defines high-intermediate risk PE
+5. BNP/NT-proBNP: RV strain marker, correlates with 30-day mortality
+6. D-dimer: ONLY useful to exclude PE in low-to-intermediate pre-test probability (Wells score)
+7. Pulmonary Embolism Severity Index (PESI) or simplified sPESI score: risk stratification
+8. Lower limb Doppler US: identify DVT burden and guide anticoagulation duration
+9. Therapeutic anticoagulation: UFH IV infusion (weight-based) OR LMWH SC immediately upon clinical diagnosis
+10. Systemic thrombolysis criteria: alteplase 100 mg IV over 2 hours for massive PE with haemodynamic collapse
+11. Multidisciplinary PE Response Team (PERT): activate for submassive/massive PE decision-making
+12. O2 therapy: maintain SpO2 > 94%; intubation if respiratory failure develops (increases RV afterload – avoid if possible)
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Pulseless electrical activity (PEA) or cardiac arrest from massive PE: immediate surgical embolectomy or eCPR
+- SBP < 80 mmHg with rising lactate despite vasopressors: cardiogenic shock from RV failure
+- Systemic thrombolysis within 10 days of any major surgery or within 3 months of intracranial surgery
+- Active internal haemorrhage: absolute contraindication to systemic thrombolysis
+- RV:LV ratio > 1.5 with troponin rise > 10x normal: highest-risk submassive PE, active escalation to CDT or embolectomy
+- Paradoxical embolism through patent foramen ovale (PFO): systemic arterial embolism risk in any Valsalva manoeuvre during surgery

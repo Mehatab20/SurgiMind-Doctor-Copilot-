@@ -1,0 +1,153 @@
+TITLE: Acute Cholecystitis – Perioperative Laparoscopic Cholecystectomy Protocol
+
+CATEGORY: General Surgery | Gastroenterology | Emergency | Hepatobiliary
+
+OVERVIEW:
+Acute cholecystitis is inflammation of the gallbladder, most commonly caused by cystic duct obstruction from gallstones (calculous cholecystitis) and less frequently from biliary stasis without stones (acalculous cholecystitis, more common in ICU patients). It is graded by the Tokyo Guidelines (TG18): Grade I (mild, no organ dysfunction), Grade II (moderate, local complication), Grade III (severe, organ dysfunction). Surgical management is definitive; timing depends on grade, patient fitness, and symptoms duration.
+
+SURGICAL INDICATIONS:
+- Grade I acute cholecystitis: early laparoscopic cholecystectomy within 72 hours of symptom onset preferred
+- Grade II acute cholecystitis with favourable operative conditions: early laparoscopic or open cholecystectomy
+- Grade II with unfavourable conditions (high comorbidity): percutaneous cholecystostomy as bridge
+- Grade III acute cholecystitis: organ dysfunction management first, cholecystostomy tube drainage; delayed cholecystectomy after 6-8 weeks
+- Gallstone perforation or pericholecystic abscess: emergency surgical drainage
+- Emphysematous cholecystitis (gas-forming organisms): emergency cholecystectomy (high risk of perforation)
+- Mirizzi syndrome with biliary obstruction: open cholecystectomy with common bile duct exploration
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Acute cholecystitis symptoms > 72 hours with inflammatory mass (phlegmon): increased conversion and CBD injury risk, interval cholecystectomy preferred
+- Uncontrolled coagulopathy: INR > 1.5 (stop anticoagulation and bridge appropriately)
+- Severe sepsis or septic shock from cholangitis requiring haemodynamic stabilisation before laparotomy
+- Liver cirrhosis Child-Pugh C: perioperative mortality for cholecystectomy 30-80%
+- Active acute pancreatitis: wait for resolution of pancreatic inflammation before cholecystectomy (minimum 48-72 hours)
+- ASA Class IV-V patient without life-threatening biliary complication: cholecystostomy preferred
+- Pregnancy (first/third trimester) for elective cholecystectomy: second trimester preferred if urgent
+
+PRE-OPERATIVE CHECKLIST:
+1. Ultrasound abdomen: gallstone visualisation, gallbladder wall thickening (> 4 mm), pericholecystic fluid, CBD diameter
+2. Full blood count: WBC (> 18,000 suggests severe disease or perforation), haemoglobin
+3. Comprehensive metabolic panel: LFTs (bilirubin elevation suggests choledocholithiasis or Mirizzi)
+4. Serum lipase and amylase: exclude concurrent acute pancreatitis
+5. CRP and ESR: inflammatory markers for severity grading (CRP > 200 mg/L suggests Grade II-III)
+6. Coagulation panel: INR, PTT (anticoagulation management perioperatively)
+7. Blood cultures: if fever > 38.5°C or WBC > 18,000 (bacteraemia in cholecystitis 15%)
+8. IV antibiotics: piperacillin-tazobactam 4.5 g every 8 hours OR cefuroxime + metronidazole
+9. CT abdomen with IV contrast: if perforation, abscess, or emphysematous cholecystitis suspected
+10. MRCP or endoscopic ultrasound (EUS): if CBD stones suspected on clinical/biochemical grounds
+11. ERCP with CBD clearance: prior to or during cholecystectomy for confirmed choledocholithiasis
+12. Tokyo Guideline severity grading: guides timing and approach
+13. IV fluid resuscitation: 2-3 L crystalloid (NPO 6 hours before surgery)
+14. VTE prophylaxis: LMWH 12 hours pre-operatively, mechanical compression intraoperatively
+15. Anaesthesiology pre-assessment: particularly for ASA III/IV patients
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Gas in gallbladder wall on CT (emphysematous cholecystitis): perforation imminent, emergency surgery
+- Peritonism with free air on X-ray/CT: perforation confirmed, emergency laparotomy
+- Septic shock with systolic BP < 90 mmHg from cholangitis: stabilise with antibiotics and vasopressors before surgery
+- Bilirubin > 10 mg/dL with CBD dilatation: likely Mirizzi syndrome or cholangiocarcinoma, specialist hepatobiliary input required
+- INR > 2.5 not correctable: severe hepatic dysfunction, surgical haemostasis cannot be guaranteed
+
+
+TITLE: S/P Fall with Hip and Humeral Fracture – Perioperative Orthopaedic Surgical Protocol
+
+CATEGORY: Orthopaedic Surgery | Trauma | Geriatrics | Emergency
+
+OVERVIEW:
+Hip fractures (intracapsular and extracapsular) are the most common serious injury in elderly patients, with 30-day mortality of 5-10% and one-year mortality of 20-30% in patients over 80 years. Humeral fractures range from low-risk isolated greater tuberosity injuries to complex proximal humeral fractures requiring arthroplasty. Both injury patterns in elderly patients with osteoporosis demand careful cardiovascular and neurocognitive optimisation before surgical intervention.
+
+SURGICAL INDICATIONS:
+Hip Fracture:
+- Displaced intracapsular (subcapital) hip fracture: hemiarthroplasty (elderly) or total hip arthroplasty (active, younger)
+- Undisplaced intracapsular fracture: internal fixation with cannulated hip screws
+- Intertrochanteric or subtrochanteric fracture: intramedullary nail fixation (cephalomedullary nail)
+- Pathological fracture from metastatic bone disease: proximal femoral replacement
+
+Proximal Humeral Fracture:
+- 3- or 4-part fractures in elderly with poor bone stock: reverse total shoulder arthroplasty
+- 2-part surgical neck fracture: open reduction internal fixation (ORIF) with locking plate
+- Greater tuberosity avulsion with rotator cuff disruption: ORIF or suture anchor repair
+- Humeral shaft fracture: conservative management (hanging cast) OR intramedullary nail/plating if unstable
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Uncontrolled cardiac or respiratory comorbidities without pre-operative optimisation
+- Active infection (pneumonia, UTI, cellulitis) in the 72 hours before elective fracture surgery
+- Haemoglobin < 8 g/dL without correction (unacceptable anaesthetic risk for hip arthroplasty)
+- INR > 1.5 (anticoagulated patients requiring reversal pre-operatively)
+- Electrolyte abnormalities: K+ < 3.0 or > 5.5, Na+ < 128 mEq/L uncorrected
+- Dementia or delirium not assessed for surgical consent capacity
+- Hip fracture > 72 hours delay NOT recommended: delayed surgery (> 24-48 hours) increases 30-day mortality
+
+PRE-OPERATIVE CHECKLIST:
+1. Plain X-ray hip (AP pelvis + lateral): classify fracture type (Garden classification for intracapsular; AO/OTA for extracapsular)
+2. CT hip: for complex fractures requiring surgical planning (3D reconstruction)
+3. 12-lead ECG: cardiac rhythm and evidence of ischaemia in elderly patients
+4. Full blood count: Hgb target > 8 g/dL before surgery (transfuse if Hgb < 7 g/dL or symptomatic)
+5. CMP: electrolytes, renal function, glucose (diabetes management perioperatively)
+6. Coagulation panel: INR < 1.5 required; hold warfarin, reverse with Vitamin K ± PCC if urgent; hold DOACs 24-48 hours
+7. Preoperative type and screen: hip arthroplasty and intramedullary nailing have significant blood loss
+8. Chest X-ray: baseline cardiorespiratory assessment, PE exclusion
+9. Echocardiogram: if new murmur, unexplained dyspnoea, or reduced exercise tolerance
+10. Delirium screening (4AT score): baseline cognitive assessment prior to surgery
+11. Nutritional assessment: albumin < 3.0 g/dL predicts poor wound healing and increased infection risk
+12. Urinalysis + urine MC&S: UTI is common in elderly; treat before elective surgery, accept delay if necessary
+13. MRSA screening swab: anterior nares screening per local protocol for arthroplasty
+14. Anaesthesia discussion: spinal/regional preferred over general anaesthesia for hip fractures (REGAIN trial)
+15. VTE prophylaxis plan: fondaparinux or LMWH postoperatively; IVC filter if anticoagulation contraindicated
+16. Orthogeriatric co-management: osteoporosis treatment, falls assessment, delirium prevention
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Haemodynamic instability from concurrent haemorrhage (retroperitoneal haematoma from femoral fracture): resuscitate before surgical positioning
+- INR > 3.0 with active anticoagulation and urgent surgery needed: 4-factor PCC 25-50 units/kg
+- Delirium with uncontrolled agitation: risk of intraoperative awareness, falls off table, dangerous extubation
+- Active deep surgical site infection from prior arthroplasty: joint must be sterilised before revision
+- Fat embolism syndrome (tachycardia, confusion, petechiae after long bone fracture): supportive care first, surgery after stabilisation
+- Systolic BP < 90 mmHg from acute haemorrhage: damage control orthopaedics (temporary stabilisation, not definitive fixation)
+
+
+TITLE: New-Onset and Breakthrough Seizures – Perioperative Neurological Assessment Protocol
+
+CATEGORY: Neurology | Neurosurgery | Emergency | Anaesthesiology
+
+OVERVIEW:
+Seizures are paroxysmal abnormal synchronised neuronal discharges that can manifest as convulsive (tonic-clonic) or non-convulsive events. New-onset seizures require urgent investigation for structural, metabolic, or infective causes before elective surgery, while breakthrough seizures in established epilepsy indicate inadequate anticonvulsant levels. Status epilepticus (continuous seizure > 5 minutes or two seizures without recovery) is a neurological emergency with 20% mortality.
+
+SURGICAL INDICATIONS:
+- Intracranial structural lesion causing seizures: brain tumour resection, abscess drainage, haematoma evacuation
+- Cavernous malformation or cortical dysplasia: epilepsy surgery with seizure-free outcomes up to 70%
+- Temporal lobe resection: for refractory temporal lobe epilepsy after failed medical management
+- Corpus callosotomy: palliative seizure surgery for atonic/drop attacks
+- Vagal nerve stimulator (VNS) or deep brain stimulator (DBS) implantation: for refractory generalised epilepsy
+- Focal cortical resection guided by intracranial EEG monitoring
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Unexplained new-onset seizure without completed neurological investigation (MRI brain, EEG, metabolic panel)
+- Subtherapeutic anticonvulsant levels without dose correction (phenytoin < 10 mcg/mL, valproate < 50 mcg/mL)
+- Status epilepticus within the preceding 48 hours
+- Acute metabolic seizure triggers not corrected: sodium < 120 mEq/L, glucose < 40 mg/dL, calcium < 7.0 mg/dL
+- Alcohol withdrawal seizure risk (CIWA score > 10) without benzodiazepine prophylaxis
+- Cerebral oedema on imaging without corticosteroid therapy initiated
+- Missed regular anticonvulsant doses on day of surgery (ensure IV/PR/NG route administration perioperatively)
+
+PRE-OPERATIVE CHECKLIST:
+1. MRI brain with and without contrast: structural lesion, cortical dysplasia, mesial temporal sclerosis
+2. CT head: if MRI unavailable or acute bleed suspected post-seizure
+3. EEG (standard 20-minute): interictal activity characterisation; continuous EEG if non-convulsive status suspected
+4. Electrolytes: sodium, potassium, magnesium, calcium, glucose (metabolic seizure triggers)
+5. Therapeutic drug monitoring: phenytoin, carbamazepine, valproate, levetiracetam levels as appropriate
+6. LFTs: hepatic metabolism impairment affects drug metabolism
+7. Renal function: dose adjustment for renally-cleared anticonvulsants (levetiracetam, gabapentin)
+8. Prolactin level (30-60 minutes post-seizure): elevated in generalised tonic-clonic seizures (useful for confirming event vs. pseudoseizure)
+9. Full blood count: pancytopenia from carbamazepine or valproate toxicity
+10. Lumbar puncture: if infective cause suspected (fever, meningismus, immunosuppression)
+11. Drug and alcohol screen: toxicology as seizure precipitant
+12. Pre-operative anticonvulsant administration: give IV formulation if NPO (IV levetiracetam, IV valproate, IV fosphenytoin)
+13. Anaesthesia consultation: avoid seizure-threshold-lowering agents (enflurane, ketamine at low doses, tramadol); propofol is acceptable
+14. Neurology review: risk stratification and anticonvulsant optimisation before elective surgery
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Status epilepticus (seizure > 5 minutes): treat with lorazepam 4 mg IV, escalate to levetiracetam 60 mg/kg IV, then ICU management
+- Post-ictal Todd's paralysis: may mimic stroke, requires MRI before surgical positioning
+- New-onset seizure + focal deficit + papilloedema: raised ICP from intracranial lesion until proven otherwise
+- Sodium < 115 mEq/L: hyponatraemic seizure – correct cautiously (max 8 mEq/24h to avoid central pontine myelinolysis)
+- Anticonvulsant toxicity with nystagmus, ataxia, diplopia: drug toxicity mimicking seizure, check drug levels before adding another agent
+- Alcohol withdrawal delirium tremens (DTs) with seizure: treat with IV benzodiazepines before any surgical procedure

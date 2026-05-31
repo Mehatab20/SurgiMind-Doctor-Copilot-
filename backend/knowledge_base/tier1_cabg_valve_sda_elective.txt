@@ -1,0 +1,161 @@
+TITLE: Coronary Artery Bypass Grafting (CABG) – Elective Pre-operative Assessment and Surgical Protocol
+
+CATEGORY: Cardiac Surgery | Cardiology | Anaesthesiology | Elective | Planned Procedure
+
+OVERVIEW:
+Coronary artery bypass grafting (CABG) is the surgical revascularisation procedure for multi-vessel coronary artery disease, left main coronary stenosis, or complex single-vessel disease not amenable to percutaneous coronary intervention (PCI). Based on ACC/AHA and ESC guidelines, CABG is preferred over PCI for left main disease, triple vessel CAD with reduced EF, or diabetes with multi-vessel disease. Elective CABG planning requires comprehensive multi-organ assessment to optimise perioperative outcomes and minimise cardiac, renal, and neurological complications.
+
+SURGICAL INDICATIONS:
+- Significant left main coronary artery stenosis ≥ 50%: CABG preferred over PCI (ACC/AHA Class I recommendation)
+- Three-vessel CAD with EF < 35%: CABG survival benefit over medical therapy (STICH trial)
+- Two-vessel or three-vessel CAD with proximal LAD involvement: CABG preferred in diabetics (FREEDOM trial)
+- Complex multi-vessel CAD with SYNTAX score > 22: CABG superior to PCI
+- Failed PCI or in-stent restenosis not amenable to re-intervention
+- Mechanical complication post-STEMI requiring concurrent cardiac surgery
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Recent STEMI within 14 days without haemodynamic stabilisation
+- EF < 20% without bridge therapy or cardiac rehabilitation plan (extremely high operative mortality)
+- Creatinine > 2.0 mg/dL or eGFR < 30 mL/min: CABG carries significant risk of post-operative AKI requiring dialysis
+- Active infection (endocarditis, mediastinitis, sternotomy site): decontamination required before re-do sternotomy
+- Carotid artery stenosis > 70% (bilateral): increased perioperative stroke risk without concurrent CEA planning
+- Uncontrolled diabetes (HbA1c > 10%): increased sternal wound dehiscence risk (bilateral internal mammary artery harvest)
+- Severe COPD (FEV1 < 40% predicted): pulmonary complications significantly elevated post-cardiopulmonary bypass
+- Active or unresolved psychiatric illness without capacity for prolonged cardiac rehabilitation
+
+PRE-OPERATIVE CHECKLIST:
+1. Coronary angiography (catheterisation): confirm anatomy, assess bypass targets, LVEF (on-table ventriculogram)
+2. Echocardiogram (transthoracic): EF quantification, wall motion abnormalities, valve function, RV assessment
+3. Carotid Doppler ultrasound: bilateral ICA stenosis assessment (concurrent CEA if stenosis > 70% or symptomatic)
+4. 12-lead ECG: prior MI territory, conduction abnormalities, arrhythmia baseline
+5. Pulmonary function tests (PFTs): FEV1, FVC, DLCO – guide weaning from cardiopulmonary bypass ventilation
+6. Full blood count: Hgb target > 10 g/dL pre-operatively (blood conservation strategy – autologous donation if time permits)
+7. Comprehensive metabolic panel: creatinine (pre-operative eGFR), electrolytes, LFTs (heparin/warfarin metabolism)
+8. Coagulation panel: INR, PTT – stop warfarin 5 days pre-operatively (bridge with LMWH if high VTE/stroke risk)
+9. HbA1c and fasting glucose: target HbA1c < 8.0%, perioperative glucose 140-180 mg/dL
+10. Antiplatelet management: aspirin 75-100 mg continue until surgery; hold clopidogrel 5 days, ticagrelor/prasugrel 7 days pre-CABG
+11. Statin therapy: continue perioperatively (pleiotropic cardioprotective benefits)
+12. Beta-blocker: continue or initiate perioperatively (bisoprolol 2.5-10 mg daily reduces AF risk post-CABG)
+13. ACE inhibitor/ARB: hold on day of surgery (hypotension risk post-bypass)
+14. MRSA screening swab + decolonisation: anterior nares screening, chlorhexidine washes 5 days pre-operatively
+15. Dental assessment: dental caries must be treated before cardiac surgery (endocarditis risk)
+16. Cardiac anaesthesia consultation: TOE probe plan, bypass circuit management, blood conservation strategy
+17. Type and crossmatch: 4 units pRBC, 4 FFP, 2 units platelets prepared for cardiopulmonary bypass
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- EF < 15% without LVAD or IABP support: perioperative mortality > 50% for isolated CABG
+- Active endocarditis with embolic events: neurological event within 14 days, delay surgery (risk of haemorrhagic conversion of cerebral infarct)
+- INR > 3.0 on day of surgery: heparinisation during bypass will be unmanageable
+- Severe pulmonary hypertension (mPAP > 55 mmHg) without reversibility testing: right heart failure post-bypass
+- Left main stenosis > 95% with ongoing chest pain: emergent CABG, do not delay for non-urgent investigations
+- Serum creatinine > 4.0 mg/dL: near-universal requirement for post-operative renal replacement therapy
+
+
+TITLE: Cardiac Valve Replacement and Repair – Elective Pre-operative Surgical Protocol
+
+CATEGORY: Cardiac Surgery | Cardiology | Anaesthesiology | Elective | Valvular Heart Disease
+
+OVERVIEW:
+Cardiac valve surgery encompasses mitral valve repair/replacement, aortic valve replacement (surgical or transcatheter – TAVR/TAVI), tricuspid repair, and combined procedures. Indications follow ACC/AHA and ESC valvular guidelines with timing based on symptom onset, echo parameters, and haemodynamic consequences. Surgical aortic valve replacement (SAVR) carries 1-3% operative mortality in experienced centres, rising with advanced age, reduced EF, and concurrent procedures.
+
+SURGICAL INDICATIONS:
+- Severe symptomatic aortic stenosis (AVA < 1.0 cm²): SAVR (surgical) or TAVR (transcatheter) based on risk score
+- Severe aortic regurgitation with EF < 50% or LVESD > 50 mm: SAVR
+- Severe mitral regurgitation with EF > 30%: mitral repair preferred (durable, avoids anticoagulation)
+- Severe mitral stenosis (MVA < 1.5 cm²): balloon valvuloplasty if suitable anatomy, otherwise MVR
+- Infective endocarditis with valve destruction, uncontrolled infection, or embolic events: surgical valve replacement
+- Combined valve and coronary artery disease requiring CABG: combined surgery recommended
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active infective endocarditis without minimum 2 weeks IV antibiotic therapy
+- Neurological event (stroke, TIA) within 14 days: risk of haemorrhagic conversion on cardiopulmonary bypass
+- Non-cardiac surgery within 6 weeks (haemostasis and wound healing incompletely restored)
+- Severe hepatic dysfunction: Child-Pugh B/C with INR > 1.8 (coagulopathy, hepatorenal syndrome post-bypass risk)
+- EF < 25% for isolated valve surgery without mechanical circulatory support plan
+- Severe pulmonary hypertension (PVR > 8 Wood units) without vasodilator reversibility
+
+PRE-OPERATIVE CHECKLIST:
+1. Transthoracic echocardiogram (TTE): valve morphology, gradient, regurgitation severity, EF, RV function, PA pressures
+2. Transoesophageal echocardiogram (TOE): detailed valve anatomy for repair suitability, leaflet pathology
+3. Coronary angiography: all patients > 40 years or with cardiac risk factors (concurrent CAD present in 30-50% of valve patients)
+4. Right heart catheterisation: PA pressure and PVR measurement if pulmonary hypertension suspected
+5. CT aortogram: aortic root measurements, annulus sizing for TAVR, ascending aorta calcification assessment
+6. Carotid Doppler: bilateral assessment for stenosis pre-bypass
+7. Pulmonary function tests: FEV1, FVC, DLCO
+8. Full blood count, coagulation panel (INR), CMP, LFTs
+9. Blood cultures x3: if endocarditis suspected before commencing antibiotics
+10. Anticoagulation management: warfarin for mechanical valves (bridge with IV UFH perioperatively); aspirin continues
+11. STS score (Society of Thoracic Surgeons): calculate surgical risk score to determine SAVR vs. TAVR strategy
+12. Frailty assessment: Clinical Frailty Scale (CFS) score for elderly patients – frailty score ≥ 5 favours TAVR
+13. MRSA decolonisation: nasal mupirocin + chlorhexidine body wash × 5 days
+14. Dental review: all decayed teeth extracted before implanting prosthetic valve
+15. Pacemaker planning: LBBB or PR prolongation > 200ms pre-operatively requires post-operative pacing readiness
+16. ICU bed confirmation: post-cardiopulmonary bypass minimum 24 hours monitoring
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Active endocarditis with uncontrolled septicaemia: surgery at risk of seeding prosthetic valve, delay until bacteraemia cleared > 72 hours
+- Bilateral severe carotid stenosis without revascularisation plan: stroke risk on cardiopulmonary bypass is unacceptable
+- LVESD > 70 mm in severe MR: severe LV dilation, myocardial recovery post-surgery unlikely
+- Severe calcification of aortic root and ascending aorta (porcelain aorta): cannot cannulate or clamp for bypass
+- Active systemic infection or bacteraemia: prosthetic valve infection rate unacceptably high
+
+
+TITLE: Same Day Admission (SDA) Procedures – Pre-operative Assessment and Day Surgery Protocol
+
+CATEGORY: Elective Surgery | Ambulatory Surgery | Anaesthesiology | Pre-operative Assessment | Planned Procedure
+
+OVERVIEW:
+Same Day Admission (SDA) procedures encompass a broad range of elective surgical and interventional procedures performed on an ambulatory or 23-hour admission basis. Selection of appropriate SDA candidates requires careful pre-operative assessment to identify patients suitable for early discharge and those requiring overnight observation or escalation. The BADS (British Association of Day Surgery) and International Association for Ambulatory Surgery (IAAS) provide selection criteria and clinical governance frameworks for SDA programs.
+
+SURGICAL INDICATIONS:
+- Elective laparoscopic cholecystectomy (uncomplicated biliary disease): suitable SDA in ASA I-II patients
+- Inguinal, umbilical, or ventral hernia repair (open or laparoscopic): SDA in appropriate patients
+- Arthroscopic knee or shoulder procedures: debridement, meniscectomy, rotator cuff repair (small tears)
+- Carpal tunnel decompression, trigger finger release, Dupuytren's fasciectomy
+- Endoscopic procedures: colonoscopy, upper GI endoscopy, ERCP (diagnostic), cystoscopy
+- Minor urological: TURBT (small bladder tumours), circumcision, vasectomy
+- Minor gynaecological: hysteroscopy, diagnostic laparoscopy, LLETZ (cervical treatment)
+- Ophthalmic: cataract extraction with IOL implant (90%+ of cataract surgery is day-case)
+- Cardiac catheterisation (diagnostic) and uncomplicated coronary stenting in select patients
+- Parathyroidectomy (focused minimally invasive approach) in experienced centres
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- ASA Class IV or V patients (active life-threatening systemic disease): require inpatient perioperative management
+- Obstructive sleep apnoea (OSA) with CPAP-dependent and unanticipated airway difficulty: increased airway management risk post-anaesthesia
+- BMI > 50 kg/m² without specialist anaesthetic assessment: positioning, airway, and ventilation risks
+- Poorly controlled comorbidity: HbA1c > 10%, SBP > 180 mmHg, HR > 100 at rest
+- Remote patient address (> 60 minutes from hospital): post-operative emergency access not assured
+- No responsible adult to accompany patient home and supervise for 24 hours after general anaesthesia
+- Chronic opioid dependence (> 60 mg oral morphine equivalent daily): post-operative pain management not achievable in day-surgery
+- Recent upper respiratory tract infection within 2 weeks: increased laryngospasm risk with LMA/intubation
+
+PRE-OPERATIVE CHECKLIST:
+1. ASA physical status classification: ASA I-III (stable) suitable for most SDA; ASA IV–V require inpatient care
+2. Structured pre-operative questionnaire: previous anaesthetic reactions, current medications, allergies, PONV history
+3. Baseline bloods (age and comorbidity-guided):
+   - Age < 40, ASA I: no routine investigations required for minor surgery
+   - Age 40-60 or cardiovascular risk factors: ECG, FBC, U&E
+   - Age > 60 or significant comorbidity: ECG, FBC, CMP, coagulation, chest X-ray
+4. Blood pressure measurement: treat if SBP > 180 mmHg before proceeding
+5. Blood glucose (diabetics): fasting glucose, target 140-180 mg/dL perioperatively
+6. Medication review:
+   - Hold metformin 24-48 hours before surgery
+   - SGLT-2 inhibitors: hold 3-5 days pre-operatively
+   - Anticoagulants: specific bridging protocols per indication
+   - ACE inhibitors/ARBs: hold on day of surgery
+   - Aspirin: continue unless significant haemorrhagic risk
+7. Allergy verification: latex, chlorhexidine, iodine, specific drug allergies documented
+8. Airway assessment: Mallampati score, mouth opening, neck mobility, thyromental distance
+9. STOP-BANG questionnaire: OSA risk stratification
+10. Informed consent with documented risks specific to procedure and anaesthetic technique
+11. Pre-operative fasting instructions: solids 6 hours, clear fluids 2 hours (ERAS/ESAIC guidelines)
+12. Patient acceptance of discharge criteria: must meet Aldrete/modified post-anaesthetic scoring criteria before discharge
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Unanticipated difficult airway on pre-operative assessment: intubation planning required, not suitable for LMA-based day-case anaesthesia
+- Recent myocardial infarction within 6 weeks: SDA cardiac assessment mandatory, elective surgery should be deferred
+- Uncontrolled arrhythmia (AF with RVR > 110, symptomatic SVT): cardiology review before elective SDA
+- Known anaphylaxis to anaesthetic agents without allergy workup: specialist allergy/anaesthesiology assessment required
+- Planned procedure longer than 4 hours under general anaesthesia: post-operative monitoring requirements exceed SDA capacity
+- Post-operative pain management requiring epidural or patient-controlled analgesia (PCA): inpatient admission required
+- ASA IV patients with active cardiac, respiratory, or renal decompensation: SDA pathway inappropriate regardless of procedure

@@ -1,0 +1,54 @@
+TITLE: Intracranial Hemorrhage and Basal Ganglia Bleed – Neurosurgical and Perioperative Protocol
+
+CATEGORY: Neurology | Neurosurgery | Emergency | Critical Care | Stroke
+
+OVERVIEW:
+Intracranial hemorrhage (ICH) encompasses spontaneous bleeding into the brain parenchyma, subarachnoid space, subdural, or epidural compartments. Basal ganglia hemorrhage, the most common location of hypertensive ICH, accounts for 30-40% of all spontaneous intracerebral bleeds. ICH carries a 30-day mortality of 40-50% and is a neurosurgical emergency requiring rapid assessment, haematoma characterisation, and ICP management before any consideration of concurrent surgical procedures.
+
+SURGICAL INDICATIONS:
+- Cerebellar haematoma > 3 cm or with brainstem compression or hydrocephalus: surgical evacuation
+- Subdural haematoma with midline shift > 5 mm or neurological deterioration: craniotomy/craniectomy
+- Epidural haematoma > 30 mL or thickness > 15 mm with focal neurological deficit: emergent evacuation
+- Hydrocephalus from intraventricular extension of ICH: external ventricular drain (EVD) placement
+- Ruptured cerebral aneurysm causing subarachnoid haemorrhage: surgical clipping or endovascular coiling
+- Arteriovenous malformation (AVM) with haematoma and accessible location: resection after acute stabilisation
+- Lobar ICH with superficial location, volume > 30 mL, GCS > 9: consider craniotomy (trial-based, MISTIE/ICES)
+- Life-saving decompressive hemicraniectomy for refractory raised ICP
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active anticoagulation (warfarin, DOAC, heparin) not yet reversed: haemorrhage expansion risk
+- Systolic BP > 180 mmHg uncontrolled at time of any surgical intervention
+- GCS < 8 without airway protection and ICP monitoring in place
+- Coagulopathy: INR > 1.5, platelets < 100,000/mcL, fibrinogen < 1.5 g/L
+- Active herniation syndrome (Cushing triad: hypertension, bradycardia, respiratory irregularity)
+- Haematoma expansion on repeat imaging within 6-24 hours
+- Any elective non-neurosurgical procedure within 4 weeks of acute ICH
+- Therapeutic anticoagulation for concurrent cardiac or VTE indication not yet bridged safely
+
+PRE-OPERATIVE CHECKLIST:
+1. Non-contrast CT head immediately: characterise haematoma volume (ABC/2 method), location, IVH extension
+2. CT angiography (CTA) head: exclude underlying vascular malformation, aneurysm, or AVM
+3. GCS assessment: document pupil responses, limb movements, language (NIHSS if ischaemic component)
+4. Blood pressure monitoring: target SBP 130-140 mmHg (AHA/ASA 2022 guidance for ICH)
+5. Full blood count: haemoglobin, platelets (target > 100,000/mcL for surgical intervention)
+6. Coagulation panel: INR, PTT, fibrinogen – reverse all anticoagulation immediately
+7. Anticoagulation reversal protocol: warfarin → 4-factor PCC + Vitamin K IV; DOAC → specific reversal agent (idarucizumab for dabigatran, andexanet alfa for Xa inhibitors); heparin → protamine
+8. Antihypertensive therapy: IV labetalol or nicardipine infusion (avoid sodium nitroprusside – increases ICP)
+9. Electrolytes: sodium (hypernatraemia used therapeutically for ICP reduction, hyponatraemia worsens oedema)
+10. Blood glucose: maintain 140-180 mg/dL (hyperglycaemia worsens haematoma expansion)
+11. Neurosurgical consultation: urgent for all ICH cases, emergent for herniation or surgical criteria
+12. ICP monitoring: EVD or fibreoptic bolt for GCS < 8, haematoma volume > 30 mL
+13. Seizure prophylaxis: levetiracetam for lobar ICH (avoid phenytoin per ACNS guidelines)
+14. Repeat CT head at 6 hours: confirm haematoma stability before surgical planning
+15. Type and crossmatch: 4 units pRBC, 2 FFP prepared for operative cases
+16. DVT prophylaxis: mechanical (TED stockings, pneumatic compression) immediately; pharmacological delayed 24-48 hours post-bleed stabilisation
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Bilateral fixed dilated pupils unresponsive to light with GCS 3: likely non-survivable brainstem herniation
+- Haematoma volume > 60 mL in dominant hemisphere with GCS < 4: extremely poor prognosis for surgical intervention
+- Active anticoagulation with INR > 3.0 and haematoma expansion on repeat CT: haemorrhage not controllable until reversal complete
+- Systolic BP > 220 mmHg at time of surgical incision: unacceptable intraoperative haemorrhage risk
+- Coexistent coagulopathy with platelets < 20,000/mcL and INR > 2.0: haemostasis cannot be achieved
+- Active IV thrombolysis (tPA) within last 24 hours: absolute contraindication to neurosurgical intervention unless life-saving
+- Basilar artery thrombosis confirmed on CTA: brainstem ischaemia limits any surgical positioning
+- Brain herniation with loss of all brainstem reflexes: surgical futility, palliative care discussion required

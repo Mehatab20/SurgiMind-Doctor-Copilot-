@@ -1,0 +1,52 @@
+TITLE: ST-Elevation Myocardial Infarction (STEMI) – Perioperative Surgical Management Protocol
+
+CATEGORY: Cardiology | Interventional Cardiology | Emergency | Cardiac Surgery
+
+OVERVIEW:
+STEMI is an acute coronary syndrome caused by complete occlusion of a coronary artery resulting in full-thickness myocardial infarction. It represents the highest-priority cardiac emergency requiring reperfusion within 90 minutes of first medical contact (door-to-balloon time). Any non-cardiac surgical intervention during the acute phase of STEMI carries profound risk of haemodynamic collapse, arrhythmia, and perioperative death.
+
+SURGICAL INDICATIONS:
+- Primary percutaneous coronary intervention (PCI): first-line reperfusion for STEMI (Door-to-Balloon < 90 min)
+- Emergency CABG: failed PCI, left main or multi-vessel disease not amenable to PCI, mechanical complications
+- Surgical repair of mechanical complications: ventricular septal defect (VSD), free wall rupture, acute mitral regurgitation from papillary muscle rupture
+- Intra-aortic balloon pump (IABP) placement for cardiogenic shock as bridge to revascularisation
+- Extracorporeal membrane oxygenation (ECMO) / Impella insertion for refractory cardiogenic shock
+- Emergency aortic surgery if STEMI caused by type A aortic dissection extending to coronary ostia
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Any elective non-cardiac surgery within 14 days of STEMI (Class III, ACC/AHA Guidelines)
+- Drug-eluting stent placement within 12 months: antiplatelet therapy must not be stopped (risk of in-stent thrombosis)
+- Bare metal stent placement within 4-6 weeks: minimum antiplatelet duration before elective surgery
+- Active cardiogenic shock requiring vasopressor or mechanical circulatory support
+- Ejection fraction < 30% post-STEMI without cardiac optimisation
+- Active DAPT (dual antiplatelet therapy) on prasugrel or ticagrelor: haemorrhagic surgical risk
+- Unresolved ventricular arrhythmias post-STEMI (sustained VT/VF)
+- Symptomatic heart failure / pulmonary oedema not controlled medically
+
+PRE-OPERATIVE CHECKLIST:
+1. STAT 12-lead ECG at presentation: identify ST elevation ≥ 1 mm in ≥ 2 contiguous leads (> 2 mm V1-V4)
+2. Immediate cardiac catheterisation lab activation: bypass ED if STEMI confirmed
+3. Serial troponin I/T: at presentation, 3h, 6h to track infarct size and peak
+4. Echocardiography (transthoracic): regional wall motion abnormalities, EF, mechanical complications
+5. Full blood count: pre-procedure baseline, post-procedure haematocrit check
+6. Coagulation panel: PTT, ACT monitoring during PCI heparinisation
+7. Electrolytes: K+ > 4.0, Mg2+ > 0.8 mEq/L (antiarrhythmic targets pre-cardioversion/surgery)
+8. Renal function: creatinine and eGFR before contrast administration (contrast nephropathy risk)
+9. Glucose management: target 140-180 mg/dL perioperatively (hyperglycaemia worsens ischaemic injury)
+10. Antiplatelet loading: aspirin 300 mg + P2Y12 inhibitor (ticagrelor 180 mg or clopidogrel 600 mg)
+11. Anticoagulation: UFH 60-70 units/kg IV bolus at cath lab or bivalirudin as alternative
+12. Opioid analgesia: IV morphine or fentanyl for pain control (reduce sympathetic activation)
+13. Beta-blockade: oral metoprolol if no contraindication (bradycardia, hypotension, bronchospasm)
+14. Statin loading: high-intensity statin (atorvastatin 80 mg) immediately
+15. ICU/HDU admission post-intervention: telemetry for minimum 24 hours
+16. If CABG planned post-failed PCI: hold clopidogrel 5 days, prasugrel/ticagrelor 7 days pre-surgery
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Active STEMI with cardiogenic shock: mortality exceeds 40% even with revascularisation
+- Mechanical complications (acute VSD, free wall rupture): surgical mortality > 25%, but surgery is only option
+- Troponin elevation > 50x upper limit of normal with persistent ST changes: large territory infarct, higher arrest risk intraoperatively
+- Systolic BP < 80 mmHg unresponsive to 500 mL fluid challenge: cardiogenic shock, MCS required before surgical positioning
+- New LBBB with chest pain in STEMI-equivalent territory: treat as STEMI regardless of ECG ambiguity
+- Bilateral pulmonary oedema on chest X-ray with SpO2 < 90% on high-flow O2: respiratory failure from LV dysfunction
+- Drug-eluting stent within 12 months + cessation of antiplatelet therapy: stent thrombosis mortality risk 20-40%
+- Systemic thrombolysis administered within 24 hours: absolute contraindication to most surgical haemostasis

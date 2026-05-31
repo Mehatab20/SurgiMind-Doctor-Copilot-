@@ -1,0 +1,53 @@
+TITLE: Ventricular Fibrillation Arrest and Cardiac Arrest – Perioperative Surgical Protocol
+
+CATEGORY: Cardiology | Emergency | Critical Care | Resuscitation
+
+OVERVIEW:
+Cardiac arrest is the abrupt cessation of effective cardiac output resulting in global tissue ischaemia. Ventricular fibrillation (VF) is the most common initial rhythm in out-of-hospital cardiac arrest and is immediately life-threatening without defibrillation. Surgical intervention following cardiac arrest is reserved for reversible underlying causes, specifically obstructive or anatomical pathology, and carries extreme perioperative risk requiring intensive multidisciplinary management.
+
+SURGICAL INDICATIONS:
+- Cardiac tamponade causing arrest: emergency pericardiocentesis or pericardial window
+- Tension pneumothorax causing arrest: immediate needle decompression then thoracostomy
+- Massive pulmonary embolism with arrest: surgical embolectomy or catheter-directed thrombolysis
+- Aortic dissection type A causing cardiac arrest: emergent cardiothoracic surgery
+- Post-cardiac arrest with identified surgically correctable lesion (e.g. ruptured AAA, perforated viscus)
+- Refractory VF arrest in cath lab: consider extracorporeal CPR (eCPR) bridge to CABG
+- Traumatic cardiac arrest with penetrating thoracic injury: emergency department thoracotomy
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active or recent (< 6 months) cardiac arrest without full neurological and cardiac recovery
+- Unresolved post-arrest cardiogenic shock requiring vasopressor support
+- Post-arrest therapeutic hypothermia phase still active (first 24 hours)
+- Severe neurological impairment following hypoxic-ischaemic encephalopathy (CPC score 3-4)
+- Haemodynamic instability: MAP < 65 mmHg despite optimised vasopressor therapy
+- Active ventricular arrhythmias not controlled on antiarrhythmic therapy
+- EF < 20% without cardiac optimisation or mechanical circulatory support (MCS) plan
+- Unresolved metabolic derangements: pH < 7.2, lactate > 6 mmol/L, K+ > 6.0 mEq/L
+
+PRE-OPERATIVE CHECKLIST:
+1. 12-lead ECG and continuous cardiac monitoring immediately post-ROSC
+2. Arterial blood gas: pH, pCO2, pO2, lactate, bicarbonate (serial every 2 hours)
+3. Troponin I/T at presentation and 3-6 hours post-arrest (STEMI equivalent: emergent cath lab)
+4. Echocardiography (TTE/TOE): assess wall motion, tamponade, EF, structural abnormalities
+5. Full blood count: haemoglobin, haematocrit, platelets (post-CPR haematological shifts)
+6. Coagulation panel: PT, PTT, INR, fibrinogen, D-dimer (post-arrest coagulopathy common)
+7. Comprehensive metabolic panel: electrolytes, renal function, glucose, LFTs
+8. Chest X-ray: pneumothorax, pulmonary oedema, ETT and line placement
+9. CT aorta / CT pulmonary angiogram if dissection or PE suspected as precipitant
+10. Targeted temperature management (TTM) protocol 32-36°C for 24 hours if comatose post-ROSC
+11. Emergent cardiac catheterisation if STEMI identified on post-ROSC ECG
+12. Neurology review: EEG if persistent coma post-arrest, assess for post-anoxic seizures
+13. Anaesthesiology early involvement for surgical planning post-stabilisation
+14. ICU admission mandatory: invasive arterial monitoring, central venous access, Foley catheter
+15. POLST/ACP review and family goals-of-care discussion before any elective procedure
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Return of spontaneous circulation (ROSC) not achieved: survival for surgical intervention requires ROSC
+- Ongoing CPR without ROSC > 30 minutes (non-shockable rhythm) in non-hypothermic patient: termination of resuscitation consideration
+- pH < 6.9 with no reversible aetiology identified: extreme perioperative mortality
+- Serum lactate > 15 mmol/L post-resuscitation: near-universal mortality in non-surgical patients
+- Active VF or pulseless VT: operating during active arrest only in ED thoracotomy scenarios
+- Bilateral fixed dilated pupils > 4 hours post-ROSC in normothermic patient: poor neurological prognosis
+- Severe post-arrest ARDS (PaO2/FiO2 < 100): ventilatory compromise precludes safe intubation for elective surgery
+- Bowel ischaemia / mesenteric infarction following prolonged arrest: extremely high operative mortality
+- No surgical decision should proceed without neurology prognosis clarification post-TTM

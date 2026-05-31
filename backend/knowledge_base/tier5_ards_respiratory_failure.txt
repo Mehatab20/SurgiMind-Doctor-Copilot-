@@ -1,0 +1,53 @@
+TITLE: Acute Respiratory Distress Syndrome (ARDS) – Perioperative Ventilatory and Surgical Protocol
+
+CATEGORY: Pulmonology | Critical Care | Emergency | Thoracic Surgery | Anaesthesiology
+
+OVERVIEW:
+Acute Respiratory Distress Syndrome (ARDS) is a life-threatening form of diffuse lung injury characterised by acute onset hypoxaemia (PaO2/FiO2 ratio < 300 mmHg), bilateral infiltrates on chest imaging, and non-cardiogenic pulmonary oedema. It represents the final common pathway of diverse pulmonary and systemic insults including sepsis, aspiration, trauma, and pneumonia. Perioperative ARDS carries a 30-40% mortality and requires lung-protective ventilation, prone positioning, and in refractory cases, extracorporeal membrane oxygenation (ECMO).
+
+SURGICAL INDICATIONS:
+- Treat the underlying cause surgically when identified: abscess drainage, bowel perforation repair, source control for sepsis
+- Tracheostomy: for prolonged mechanical ventilation (> 10-14 days) to reduce sedation needs and facilitate weaning
+- Surgical stabilisation of rib fractures causing flail chest with refractory ARDS: rib plating
+- ECMO cannulation: bridge to recovery or transplant in refractory ARDS not responding to prone positioning
+- Lung transplantation: for irreversible fibroproliferative ARDS in selected patients (rare, highly specialised centres)
+- Bronchopleural fistula repair: complication of barotrauma requiring surgical management
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active ARDS (any severity): Berlin criteria PaO2/FiO2 < 300 mmHg on PEEP ≥ 5 cmH2O
+- Mechanical ventilation with FiO2 > 0.60 required to maintain SpO2 ≥ 90%: insufficient pulmonary reserve for anaesthesia
+- PEEP requirement > 12 cmH2O: indicates severe alveolar collapse, anaesthetic agents will worsen
+- Prone positioning active: cannot be safely interrupted for elective surgical positioning
+- Driving pressure > 15 cmH2O on current ventilator settings: high risk of intraoperative barotrauma
+- Pneumothorax or bronchopleural fistula unresolved
+- SpO2 < 92% on FiO2 1.0: oxygen delivery critically compromised
+- Multiorgan dysfunction score (MODS) > 10: associated ARDS mortality > 60%
+- Vasopressor requirement for haemodynamic stability: systemic instability precludes safe surgical positioning
+
+PRE-OPERATIVE CHECKLIST:
+1. Berlin Definition severity classification: PaO2/FiO2 ratio on PEEP ≥ 5 cmH2O (Mild: 201-300, Moderate: 101-200, Severe: ≤ 100)
+2. Arterial blood gas (ABG): pH, pCO2, pO2, HCO3-, SpO2 – serial every 2-4 hours in ICU
+3. Chest X-ray (portable AP): bilateral infiltrates, ETT positioning, pneumothorax surveillance
+4. CT thorax (when stable for transport): identify consolidation, atelectasis, volutrauma, effusions
+5. Bronchoalveolar lavage (BAL) if infection suspected: culture-directed antimicrobial therapy
+6. Lung-protective ventilation strategy (ARDSnet protocol): tidal volume 6 mL/kg IBW, plateau pressure ≤ 30 cmH2O, driving pressure ≤ 15 cmH2O
+7. PEEP optimisation: FiO2/PEEP table (ARDSnet), PEEP-FiO2 matching to minimise atelectasis
+8. Prone positioning: ≥ 16 hours/day for moderate-severe ARDS (PaO2/FiO2 < 150) – PROSEVA protocol
+9. Fluid management: conservative strategy after initial resuscitation (target neutral to slightly negative balance)
+10. Corticosteroids: methylprednisolone 1-2 mg/kg/day for moderate-severe ARDS > 7 days without improvement
+11. Neuromuscular blockade: cisatracurium infusion for first 48 hours in severe ARDS (ACURASYS protocol)
+12. Infection work-up: blood cultures, respiratory cultures, urinalysis (identify and treat precipitating cause)
+13. ECMO referral criteria: PaO2/FiO2 < 80 on FiO2 ≥ 0.9 and PEEP ≥ 16 cmH2O, or pH < 7.20 with pCO2 > 60 despite optimisation
+14. Nutrition: early enteral nutrition within 48 hours via NGT (semi-prone or prone position safe)
+15. VTE prophylaxis: LMWH unless active haemorrhage or contraindication
+16. Daily sedation vacation protocol with spontaneous breathing trial when FiO2 ≤ 0.40 and PEEP ≤ 8
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- PaO2/FiO2 < 100 on FiO2 1.0 with PEEP > 15 cmH2O: refractory ARDS, ECMO only remaining option
+- pH < 7.15 with pCO2 > 80 mmHg despite optimised ventilation: permissive hypercapnia failing, imminent arrest
+- Bilateral pneumothorax with tension physiology during positive pressure ventilation: immediately life-threatening
+- Barotrauma with subcutaneous emphysema and mediastinal air: ventilator-induced lung injury advanced
+- SpO2 < 85% unresponsive to FiO2 1.0 and maximal PEEP: refractory hypoxaemia, terminal unless ECMO initiated
+- Driving pressure > 25 cmH2O: severe volutrauma underway, lung-rest strategy or ECMO required
+- Vasoplegic shock requiring norepinephrine > 0.5 mcg/kg/min: concurrent haemodynamic crisis
+- SARS-CoV-2 or influenza viral pneumonitis ARDS with CRP > 300 mg/L and ferritin > 10,000 ng/mL: cytokine storm physiology, extreme mortality without specialist intervention

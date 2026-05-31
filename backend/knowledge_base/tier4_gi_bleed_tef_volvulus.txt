@@ -1,0 +1,128 @@
+TITLE: Acute Gastrointestinal Haemorrhage – Upper and Lower GI Bleeding Surgical Protocol
+
+CATEGORY: Gastroenterology | General Surgery | Emergency | Critical Care
+
+OVERVIEW:
+Gastrointestinal haemorrhage (GIH) encompasses a spectrum from self-limiting peptic ulcer bleeding to exsanguinating lower GI haemorrhage from mesenteric ischaemia or arteriovenous malformation. Upper GI bleeding (proximal to ligament of Treitz) has a mortality of 5-10%, rising sharply in elderly, anticoagulated, or cirrhotic patients. Lower GI bleeding carries 3-5% in-hospital mortality but up to 20% in ischaemic colitis with full-thickness necrosis.
+
+SURGICAL INDICATIONS:
+- Failed endoscopic haemostasis after two sessions (persistent or recurrent haemorrhage)
+- Haemodynamic instability (SBP < 90) requiring > 4 units pRBC in 24 hours
+- Perforated peptic ulcer with haemorrhage: emergency laparotomy and repair
+- Bleeding Meckel's diverticulum: surgical resection
+- Colonic angiodysplasia not amenable to endoscopic coagulation: segmental colectomy
+- Ischaemic colitis with full-thickness necrosis: emergency colectomy (high mortality)
+- Aortoenteric fistula: emergency vascular surgery
+- Haemobilia or haemosuccus pancreaticus: interventional radiology ± surgical ligation
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active transfusion requirement (> 2 units/24h) without haemostasis confirmed
+- Haemoglobin < 7 g/dL without correction to 8 g/dL minimum prior to anaesthesia
+- INR > 2.0 without reversal in progress (anticoagulated patients)
+- Haemodynamic instability: SBP < 100 mmHg, HR > 110 bpm at rest
+- Aspirin/NSAID use within 7 days for elective procedures (increased intraoperative haemorrhage)
+
+PRE-OPERATIVE CHECKLIST:
+1. Haemodynamic resuscitation: two large-bore IV access, 1-2 L crystalloid if hypotensive, then blood products
+2. Transfusion strategy: pRBC trigger Hgb < 7 g/dL (< 8 in active coronary disease); target Hgb 8-9 g/dL
+3. Full blood count, coagulation panel (PT/INR/PTT), type and crossmatch, CMP
+4. Nasogastric tube: confirm upper GI origin if haematemesis vs. haematochezia
+5. Urgent upper GI endoscopy (< 24 hours; < 12 hours if active haemorrhage or shock)
+6. Glasgow-Blatchford or Rockall score: stratify need for endoscopic intervention
+7. IV proton pump inhibitor: pantoprazole 80 mg bolus then 8 mg/h infusion (peptic ulcer bleeding)
+8. Antibiotic prophylaxis for cirrhotic patients with GI bleed: ceftriaxone 1 g daily
+9. Reverse anticoagulation: Vitamin K + 4-factor PCC for warfarin; specific antidotes for DOACs
+10. CT angiography of abdomen if lower GI bleed confirmed and source not identified on colonoscopy
+11. Tagged red cell scan: for intermittent bleeding > 0.1 mL/min not visible on CT angio
+12. Interventional radiology: mesenteric angiography + embolisation for active arterial bleeding
+13. Colonoscopy (urgent, within 24 hours): for lower GI haemorrhage after bowel prep if haemodynamically stable
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Shock index > 1.5 (HR/SBP) at presentation: massive haemorrhage, immediate resuscitation and transfusion
+- Coffee-ground emesis with BP < 80/50 and HR > 130: pre-shock state, operating room directly
+- Aortoenteric fistula suspected (prior aortic surgery + GI bleed): immediately life-threatening, vascular surgery emergency
+- Haemoglobin < 5 g/dL at presentation: extreme anaemia, arrest risk under anaesthesia without correction
+- Liver cirrhosis with variceal haemorrhage AND active lower GI bleed simultaneously: multisource haemorrhage with coagulopathy, ICU management essential
+
+
+TITLE: Tracheoesophageal Fistula – Perioperative Surgical Protocol (Adult Acquired)
+
+CATEGORY: Thoracic Surgery | Gastroenterology | Critical Care | ENT | Respiratory
+
+OVERVIEW:
+Acquired tracheoesophageal fistula (TEF) in adults most commonly arises from prolonged mechanical ventilation (tracheal cuff pressure necrosis), oesophageal malignancy, or post-surgical complications. It creates an abnormal communication between the tracheal and oesophageal lumens, leading to aspiration pneumonia, recurrent pulmonary infections, and respiratory failure. TEF requires urgent surgical repair or palliation given the severity of aspiration complications.
+
+SURGICAL INDICATIONS:
+- Tracheostomy-related TEF in ventilated patient: early surgical repair when clinical status permits
+- Malignant TEF: palliative stenting (covered oesophageal or tracheal stent) rather than surgical repair
+- Post-surgical TEF: surgical revision of anastomosis, oesophageal diversion, or cervical oesophagostomy
+- Benign peptic TEF (rare): oesophageal resection + primary repair
+- Oesophageal bypass procedure: for unresectable oesophageal malignancy with TEF
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Active aspiration pneumonia not yet treated: minimum 5-7 days IV antibiotics before elective repair
+- Mechanical ventilation with FiO2 > 0.5 and PEEP > 10 cmH2O: ventilatory compromise precludes surgical positioning
+- Advanced oesophageal malignancy with metastatic disease: palliative stenting preferred to resection
+- Malnourished state: albumin < 2.5 g/dL, weight loss > 15%: enteral or parenteral nutrition optimisation required
+
+PRE-OPERATIVE CHECKLIST:
+1. CT chest with IV and oral contrast: define fistula anatomy, track between trachea and oesophagus
+2. Flexible bronchoscopy: confirm tracheal location, assess cuff injury extent
+3. Flexible oesophagoscopy: define oesophageal aspect, assess for concurrent stricture or malignancy
+4. Barium swallow / fluoroscopy: functional assessment of swallowing and fistula patency
+5. Full blood count, coagulation, LFTs, albumin, pre-albumin (nutritional markers)
+6. Pulmonary function testing (PFTs): spirometry to assess respiratory reserve
+7. CT/PET-CT: if malignancy suspected – staging before surgical planning
+8. Modified barium swallow / speech therapy assessment: aspiration risk quantification
+9. Nasojejunal or PEG feeding: nutritional optimisation pre-repair (2-4 weeks minimum)
+10. Bronchial hygiene: chest physiotherapy, nebulised saline, PEEP therapy to reduce secretion burden
+11. Antibiotic therapy: culture-directed from sputum and BAL; treat aspiration pneumonia pre-operatively
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Aspiration of large food volumes causing acute respiratory failure: emergent airway protection required
+- Tracheal necrosis extending to carina: reconstructive surgery of extreme complexity, consider stenting
+- Bilateral pneumonia with PaO2/FiO2 < 150: ARDS from chronic aspiration, surgery unsafe
+- Unresectable oesophageal cancer with tracheal invasion: palliative stenting only, surgery futile
+- Haemorrhage from erosion of great vessels (aorta, subclavian): catastrophic, emergency thoracic surgery
+
+
+TITLE: Colonic Volvulus – Perioperative Emergency Surgical Protocol
+
+CATEGORY: General Surgery | Colorectal Surgery | Emergency | Gastroenterology
+
+OVERVIEW:
+Volvulus is the abnormal torsion of a segment of bowel around its mesenteric axis, most commonly affecting the sigmoid colon (80%) and caecum (15%) in adults. It causes closed-loop obstruction with progressive intestinal ischaemia and perforation if untreated. Sigmoid volvulus has a mortality of 5-15% for viable bowel rising to 50-80% with perforation or gangrene.
+
+SURGICAL INDICATIONS:
+- Sigmoid volvulus unresponsive to endoscopic detorsion, or with signs of ischaemia: emergency sigmoid colectomy ± Hartmann procedure
+- Caecal volvulus: right hemicolectomy (rarely, cecopexy with caecopexy tube acceptable if viable)
+- Gangrenous or perforated volvulus: emergency resection with Hartmann's procedure (anastomosis deferred)
+- Gastric volvulus with ischaemia: emergency laparotomy, detorsion, gastropexy or gastrectomy
+- Small bowel volvulus (midgut): emergency laparotomy and Ladd's procedure (if malrotation underlying cause)
+
+CONTRAINDICATIONS FOR ELECTIVE SURGERY:
+- Untreated bowel ischaemia or perforation: require emergency surgery, not elective
+- Unresuscitated haemodynamic instability before laparotomy
+- INR > 1.5 and platelets < 50,000/mcL without correction
+- Metabolic acidosis pH < 7.25 with lactate > 6 mmol/L: bowel ischaemia until proven otherwise, resuscitate before incision
+
+PRE-OPERATIVE CHECKLIST:
+1. Plain abdominal X-ray: "coffee bean" sign (sigmoid), right-sided caecal mass, absent rectal gas
+2. CT abdomen and pelvis with IV contrast: confirm volvulus, assess bowel wall enhancement (viability), perforation
+3. Water-soluble contrast enema: if CT unavailable – shows classic "bird's beak" at point of torsion
+4. Full blood count, comprehensive metabolic panel, coagulation, lactate, blood cultures
+5. IV fluid resuscitation: 2-3 L crystalloid; early vasopressors if septic shock
+6. Nasogastric decompression: reduce distension, lower aspiration risk
+7. IV broad-spectrum antibiotics: piperacillin-tazobactam + metronidazole (bowel flora coverage)
+8. Flexible sigmoidoscopy or rigid proctoscopy: first-line decompression for viable sigmoid volvulus
+9. Surgical consent: for emergency Hartmann's procedure if endoscopic decompression fails or bowel non-viable
+10. Type and crossmatch: 4 units pRBC for emergency colectomy
+11. Stoma nurse consultation: pre-operative marking for potential stoma formation
+12. DVT prophylaxis: heparin 5000 units SC unless active haemorrhage
+
+RED FLAGS / ABSOLUTE CONTRAINDICATIONS:
+- Peritonism with fever, tachycardia, and absent bowel sounds: perforation until proven otherwise, emergency laparotomy
+- Lactate > 6 mmol/L with metabolic acidosis and WBC > 20,000: bowel gangrene, surgical emergency
+- Radiological free air under diaphragm: perforation confirmed, delay in theatre is not acceptable
+- Severe haematochezia with volvulus: mucosal ischaemia advanced, non-viable bowel likely
+- Haemodynamic collapse despite resuscitation and gangrenous bowel: extremely high perioperative mortality, requires ICU post-operatively
