@@ -53,7 +53,7 @@ logging.basicConfig(level=logging.INFO, format="[%(name)s] %(message)s")
 
 # ── Ollama config ─────────────────────────────────────────────────────────────
 OLLAMA_BASE_URL   = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL      = os.getenv("OLLAMA_MODEL",    "phi3")   # or "mistral"
+OLLAMA_MODEL      = os.getenv("OLLAMA_MODEL", "qwen2.5:3b")   # or "mistral"
 OLLAMA_TIMEOUT    = 120    # seconds – LLM generation can take a moment
 
 # ── Groq fallback config ──────────────────────────────────────────────────────
@@ -369,14 +369,32 @@ def _call_ollama(prompt: str) -> Optional[str]:
         method  = "POST",
     )
 
+    
+    
     try:
         log.info(f"Calling Ollama ({OLLAMA_MODEL}) at {OLLAMA_BASE_URL}…")
         t0 = time.time()
+
+        log.info("Sending request to Ollama...")
+
         with urllib.request.urlopen(req, timeout=OLLAMA_TIMEOUT) as resp:
             body = json.loads(resp.read().decode("utf-8"))
+
+            log.info("Received response from Ollama")
+
+            with urllib.request.urlopen(req, timeout=OLLAMA_TIMEOUT) as resp:
+                body = json.loads(resp.read().decode("utf-8"))
+
+            print("OLLAMA RESPONSE KEYS:", body.keys())
+
+            log.info("Received response from Ollama")
+
+            print("RESPONSE LENGTH:", len(body.get("response", "")))
+
             text = body.get("response", "").strip()
+
             log.info(f"Ollama responded in {time.time()-t0:.1f}s "
-                     f"({len(text)} chars)")
+                    f"({len(text)} chars)")
             return text if text else None
 
     except urllib.error.URLError as e:
@@ -715,6 +733,9 @@ def generate_report(
     llm_raw    = None
     backend    = "rule-based"
     model_used = "SurgiMind Clinical Rules Engine v1.0"
+
+    print("OLLAMA RUNNING:", _is_ollama_running())
+    print("OLLAMA MODEL:", OLLAMA_MODEL)
 
     if _is_ollama_running():
         log.info(f"Ollama is running – using {OLLAMA_MODEL}")
