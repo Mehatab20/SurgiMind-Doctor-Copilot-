@@ -502,137 +502,125 @@ st_restore_session()
 # =============================================================================
 
 def render_login_page():
-    """Two-panel Auth Page using background.jpg and Main image.jpg."""
+    """Centered Auth Page with Vision Hive layout and SurgiMind branding."""
     
-    # 1. Image Base64 Encoding Helpers
-    def get_base64(path):
-        with open(path, "rb") as f:
-            return base64.b64encode(f.read()).decode()
-
-    # Paths to your specific project assets
-    bg_img = get_base64("background.jpg")
-    main_img = get_base64("Main image.jpg")
-
-    # 2. Custom CSS for the Two-Panel Layout
-    st.markdown(f"""
+    # 1. Custom CSS for the Medical-Themed Background and Card
+    st.markdown("""
     <style>
-    /* Full page background */
-    [data-testid="stAppViewContainer"] {{
-        background: url("data:image/jpg;base64,{bg_img}");
-        background-size: cover;
-        background-position: center;
-    }}
+    /* Vision Hive style illustrative background with SurgiMind colors */
+    [data-testid="stAppViewContainer"] {
+        background: linear-gradient(135deg, #f0f7ff 0%, #e6fff9 100%);
+        background-attachment: fixed;
+    }
     
-    .auth-wrapper {{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 90vh;
-        padding: 2rem;
-    }}
-    
-    .auth-card {{
-        background: white;
-        border-radius: 32px;
-        box-shadow: 0 40px 100px rgba(13, 43, 94, 0.25);
-        display: flex;
-        overflow: hidden;
-        width: 100%;
-        max-width: 1100px;
-        min-height: 650px;
-    }}
-    
-    /* Left side image panel */
-    .image-panel {{
-        flex: 1;
-        background: url("data:image/jpg;base64,{main_img}");
-        background-size: cover;
-        background-position: center;
+    .auth-container {
         display: flex;
         flex-direction: column;
-        justify-content: flex-end;
-        padding: 3rem;
-        color: white;
-    }}
+        align-items: center;
+        justify-content: center;
+        min-height: 85vh;
+    }
     
-    /* Right side form panel */
-    .form-panel {{
-        flex: 1.1;
-        padding: 4rem;
+    .auth-card {
         background: white;
-    }}
+        padding: 3rem;
+        border-radius: 28px;
+        box-shadow: 0 20px 50px rgba(13, 43, 94, 0.1);
+        width: 100%;
+        max-width: 450px;
+        text-align: center;
+    }
     
-    .brand-title {{ font-size: 2.2rem; font-weight: 800; color: #0D2B5E; margin-bottom: 0.5rem; }}
-    .brand-title span {{ color: #1CB5A3; }}
-    .sub-heading {{ color: #7A8AA5; font-size: 0.95rem; margin-bottom: 2.5rem; }}
+    /* Input field styling to match large Vision Hive inputs */
+    .stTextInput input, .stSelectbox select {
+        border-radius: 12px !important;
+        border: 1px solid #e1e8ed !important;
+        padding: 0.75rem !important;
+        background-color: #fcfdfe !important;
+    }
+    
+    /* Branding Colors */
+    .brand-name { font-size: 1.8rem; font-weight: 800; color: #0D2B5E; margin-top: 10px; }
+    .brand-name span { color: #1CB5A3; }
+    .tagline { color: #6B84A8; font-size: 0.75rem; letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 2rem;}
+    
+    /* Footer Link Styling */
+    .auth-footer { margin-top: 1.5rem; font-size: 0.9rem; color: #6B84A8; }
+    .auth-link { color: #1CB5A3; font-weight: 700; cursor: pointer; text-decoration: underline; }
     </style>
     """, unsafe_allow_html=True)
 
-    # 3. Structural Container
-    st.markdown('<div class="auth-wrapper"><div class="auth-card">', unsafe_allow_html=True)
-
-    # ── LEFT PANEL (Image & Tagline) ──────────────────────────────────────────
-    st.markdown(f"""
-    <div class="image-panel">
-        <div style="background: rgba(13, 43, 94, 0.6); padding: 1.5rem; border-radius: 16px; backdrop-filter: blur(10px);">
-            <h2 style="margin:0;">Clinical Precision</h2>
-            <p style="margin:0.5rem 0 0; opacity: 0.9;">AI-Powered Surgical Decision Support Grounded in Clinical Guidelines.</p>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
-
-    # ── RIGHT PANEL (Auth Forms) ──────────────────────────────────────────────
-    st.markdown('<div class="form-panel">', unsafe_allow_html=True)
+    st.markdown('<div class="auth-container">', unsafe_allow_html=True)
     
-    # Logo and Branding
+    # ── LOGO & HEADER ─────────────────────────────────────────────────────────
     st.markdown(f"""
-        <div style="text-align:left; margin-bottom: 2rem;">
-            {logo_img_tag(72)}
-            <div class="brand-title">Surgi<span>Mind</span></div>
-        </div>
+    <div class="auth-card">
+        {logo_img_tag(80)}
+        <div class="brand-name">Surgi<span>Mind</span></div>
+        <div class="tagline">AI-Powered Surgical Decision Support</div>
     """, unsafe_allow_html=True)
 
+    # ── CONDITIONAL PAGE RENDERING ────────────────────────────────────────────
     if st.session_state["auth_page"] == "login":
-        st.markdown('<div class="sub-heading">Welcome back, Doctor. Please sign in.</div>', unsafe_allow_html=True)
-        user_in = st.text_input("Username", placeholder="dr.smith", key="li_user")
+        # LOGIN VIEW [6]
+        st.markdown("<h3 style='color:#0D2B5E; margin-bottom:1.5rem;'>Welcome back!</h3>", unsafe_allow_html=True)
+        
+        user_in = st.text_input("Username", placeholder="your.username", key="li_user")
         pass_in = st.text_input("Password", type="password", placeholder="••••••••", key="li_pass")
         
-        if st.button("Sign In →", use_container_width=True, type="primary"):
-            result = st_login(user_in, pass_in) # logic from database_manager [1]
+        st.markdown("<br>", unsafe_allow_html=True)
+        
+        if st.button("Log In →", use_container_width=True, type="primary"):
+            result = st_login(user_in, pass_in) # logic from database_manager [7]
             if result["ok"]:
+                st.success("Access Granted.")
                 st.rerun()
             else:
-                st.error(f"❌ {result.get('error', 'Login failed')}")
-        
-        st.markdown('<p style="margin-top:2rem; color:#7A8AA5;">New to the platform?</p>', unsafe_allow_html=True)
-        if st.button("Create Staff Account", key="go_to_reg"):
+                st.error(f"❌ {result.get('error', 'Invalid login')}")
+
+        st.markdown("""
+            <div class="auth-footer">
+                New to SurgiMind? 
+            </div>
+        """, unsafe_allow_html=True)
+        if st.button("Register as New User", key="goto_signup"):
             st.session_state["auth_page"] = "signup"
             st.rerun()
 
     else:
-        st.markdown('<div class="sub-heading">Register to access surgical intelligence.</div>', unsafe_allow_html=True)
+        # SIGNUP VIEW [8]
+        st.markdown("<h3 style='color:#0D2B5E; margin-bottom:1.5rem;'>Create Account</h3>", unsafe_allow_html=True)
+        
         name_in = st.text_input("Full Name", placeholder="Dr. Sarah Smith")
-        user_in = st.text_input("Username", placeholder="dr.sarah")
-        spec_in = st.selectbox("Speciality", ["General Surgery", "Cardiology", "Neurology", "Orthopaedics"])
-        hosp_in = st.text_input("Hospital", placeholder="City General")
-        pass_in = st.text_input("Set Password", type="password")
-
-        if st.button("Complete Registration", use_container_width=True, type="primary"):
+        user_in = st.text_input("Choose Username", placeholder="dr.smith")
+        spec_in = st.selectbox("Speciality", ["General Surgery", "Cardiology", "Neurology", "Orthopaedics", "Other"])
+        hosp_in = st.text_input("Hospital", placeholder="City General Hospital")
+        pass_in = st.text_input("Set Password", type="password", help="Minimum 6 characters")
+        
+        st.markdown("<br>", unsafe_allow_html=True)
+        
+        if st.button("Create Account +", use_container_width=True, type="primary"):
             if len(pass_in) < 6:
-                st.warning("⚠️ Password too short.")
+                st.warning("⚠️ Password must be at least 6 characters.")
             else:
-                result = st_signup(user_in, name_in, pass_in, spec_in, hosp_in) # logic from database_manager [1]
+                result = st_signup(user_in, name_in, pass_in, spec_in, hosp_in) # logic from database_manager [9]
                 if result["ok"]:
+                    st.success("Account created successfully!")
                     st.rerun()
                 else:
-                    st.error(f"❌ {result.get('error')}")
+                    st.error(f"❌ {result.get('error', 'Signup failed')}")
 
-        if st.button("Back to Sign In", key="back_to_li"):
+        st.markdown("""
+            <div class="auth-footer">
+                Already have an account? 
+            </div>
+        """, unsafe_allow_html=True)
+        if st.button("Back to Login", key="goto_login"):
             st.session_state["auth_page"] = "login"
             st.rerun()
 
-    # Close panels
-    st.markdown("</div></div></div>", unsafe_allow_html=True)
+    st.markdown("</div></div>", unsafe_allow_html=True)
+
 
 
 # =============================================================================
