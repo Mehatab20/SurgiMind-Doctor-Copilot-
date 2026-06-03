@@ -52,9 +52,9 @@ log = logging.getLogger("SurgiMind.LLM")
 logging.basicConfig(level=logging.INFO, format="[%(name)s] %(message)s")
 
 # ── Ollama config ─────────────────────────────────────────────────────────────
-OLLAMA_BASE_URL   = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL      = os.getenv("OLLAMA_MODEL", "qwen2.5:3b")   # or "mistral"
-OLLAMA_TIMEOUT    = 120    # seconds – LLM generation can take a moment
+OLLAMA_BASE_URL   = "http://localhost:11434"
+OLLAMA_MODEL      = "qwen2.5:1.5b"  # <--- REMOVED os.getenv to stop phi3 from loading
+OLLAMA_TIMEOUT    = 300    # seconds – LLM generation can take a moment
 
 # ── Groq fallback config ──────────────────────────────────────────────────────
 GROQ_API_KEY      = os.getenv("GROQ_API_KEY", "")

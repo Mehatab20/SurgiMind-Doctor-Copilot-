@@ -8,6 +8,18 @@ import time
 import json
 import base64
 import os
+import io
+
+from reportlab.lib.pagesizes import letter, landscape
+from reportlab.lib import colors as pdf_colors
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.platypus import (
+    SimpleDocTemplate,
+    Paragraph,
+    Spacer,
+    Table,
+    TableStyle
+)
 
 st.set_page_config(
     page_title="SurgiMind",
@@ -279,6 +291,22 @@ html, body, [data-testid="stAppViewContainer"] {
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-thumb { background: #C5D5EA; border-radius: 3px; }
 
+/* ===== Pre-op Checklist Text ===== */
+
+[data-testid="stCheckbox"] label {
+    color: #0D2B5E !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+}
+
+[data-testid="stCheckbox"] span {
+    color: #0D2B5E !important;
+}
+
+[data-testid="stCheckbox"] input {
+    accent-color: #1CB5A3 !important;
+}
+
 /* ==========================================================
    SURGIMIND AUTH SCREEN
    ========================================================== */
@@ -399,6 +427,12 @@ html, body, [data-testid="stAppViewContainer"] {
     margin-bottom: 30px;
 }
 
+/* Force all checkbox text dark */
+[data-testid="stCheckbox"] * {
+    color: #0D2B5E !important;
+    font-weight: 600 !important;
+}
+
 </style>
 """
 
@@ -436,6 +470,99 @@ def get_base64_image(filename):
 # =============================================================================
 # HELPER FUNCTIONS
 # =============================================================================
+
+
+
+def generate_professional_pdf(report_data):
+    """Converts SurgiMind AI JSON output into a professional medical PDF."""
+    buffer = io.BytesIO()
+    doc = SimpleDocTemplate(buffer, pagesize=landscape(letter), rightMargin=50, leftMargin=50, topMargin=50, bottomMargin=50)
+    styles = getSampleStyleSheet()
+    
+    # ── SurgiMind Professional Styles ─────────────────────────────────────────
+    title_style = ParagraphStyle(
+    'Title',
+    parent=styles['Heading1'],
+    color=pdf_colors.HexColor("#0D2B5E")
+    )
+    section_style = ParagraphStyle('Section', parent=styles['Heading2'], color=pdf_colors.HexColor("#1CB5A3"), spaceBefore=15, spaceAfter=8, fontSize=14)
+    body_style = ParagraphStyle('Body', parent=styles['Normal'], fontSize=11, leading=14)
+    alert_style = ParagraphStyle('Alert', parent=styles['Normal'], color=pdf_colors.red, fontWeight='bold')
+
+    elements = []
+
+    # 1. Header: Brand and Patient Info
+    elements.append(Paragraph("SurgiMind AI: Surgical Risk Assessment", title_style))
+    elements.append(Paragraph(f"<b>Patient Name:</b> {report_data.get('patient_name', 'Unknown')}", body_style))
+    elements.append(Paragraph(f"<b>Risk Classification:</b> {report_data.get('risk_level', 'N/A')} (Confidence: {report_data.get('confidence', 'N/A')})", body_style))
+    elements.append(Spacer(1, 15))
+
+    # 2. AI Summary (The "Human Readable" part from Ollama)
+    elements.append(Paragraph("AI Clinical Summary", section_style))
+    elements.append(Paragraph(report_data.get('ai_summary', 'N/A'), body_style))
+
+    # 3. Clinical Impression
+    elements.append(Paragraph("Probable Diagnosis", section_style))
+    elements.append(Paragraph(report_data.get('probable_diagnosis', 'N/A'), body_style))
+
+    # 4. Red Flag Lab Alerts (Formatted as a Table)
+    if report_data.get('red_flags'):
+        elements.append(Paragraph("Critical Lab Red Flags", section_style))
+        # Table data: Header + rows from the red_flags list
+        data = [["Lab", "Clinical Reason", "Severity"]]
+        for rf in report_data['red_flags']:
+            data.append([
+            Paragraph(rf.get('lab', ''), body_style),
+            Paragraph(rf.get('reason', ''), body_style),
+            Paragraph(rf.get('severity', ''), body_style)
+            ])
+        
+        # Style the table using SurgiMind colors
+        t = Table(data, colWidths=[90, 320, 90])
+        t.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,0), pdf_colors.HexColor("#0D2B5E")),
+        ('TEXTCOLOR', (0,0), (-1,0), pdf_colors.whitesmoke),
+
+        ('GRID', (0,0), (-1,-1), 0.5, pdf_colors.grey),
+
+        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+
+        ('WORDWRAP', (0,0), (-1,-1), 'CJK'),
+
+        ('FONTSIZE', (0,0), (-1,-1), 9),
+
+        ('LEFTPADDING', (0,0), (-1,-1), 6),
+        ('RIGHTPADDING', (0,0), (-1,-1), 6),
+        ('TOPPADDING', (0,0), (-1,-1), 6),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 6),
+        ]))
+        elements.append(t)
+
+    # 5. Contraindications & Surgical Options
+    if report_data.get('contraindications'):
+        elements.append(Paragraph("Contraindications", section_style))
+        for item in report_data['contraindications']:
+            elements.append(Paragraph(f"• {item}", body_style))
+
+    if report_data.get('surgical_options'):
+        elements.append(Paragraph("Surgical Recommendations", section_style))
+        for item in report_data['surgical_options']:
+            elements.append(Paragraph(f"• {item}", body_style))
+
+    # 6. Pre-Op Checklist (The checkbox list)
+    if report_data.get('preop_checklist'):
+        elements.append(Paragraph("Pre-Operative Action Checklist", section_style))
+        for item in report_data['preop_checklist']:
+            elements.append(Paragraph(f"[  ] {item}", body_style))
+
+    # 7. Footer (Model details)
+    elements.append(Spacer(1, 30))
+    footer_text = f"Report generated by {report_data.get('model_used', 'SurgiMind AI')} via {report_data.get('llm_backend_used', 'ollama')}"
+    elements.append(Paragraph(f"<font size='8' color='grey'>{footer_text}</font>", body_style))
+
+    doc.build(elements)
+    buffer.seek(0)
+    return buffer
 
 def get_risk_colors(level):
     level = level.upper()
@@ -847,7 +974,7 @@ else:
     risk     = report.get("risk_level","MEDIUM").upper()
     conf_str = report.get("confidence","N/A")
     conf_flt = confidence_to_float(conf_str)
-    colors   = get_risk_colors(risk)
+    risk_colors   = get_risk_colors(risk)
     pname    = report.get("patient_name","Patient")
     loaded_id= st.session_state.get("loaded_report_id")
 
@@ -857,17 +984,17 @@ else:
     col_gauge, col_stats = st.columns([1,2], gap="medium")
     with col_gauge:
         st.markdown(f"""
-        <div class="risk-gauge-card {colors['card']}">
+        <div class="risk-gauge-card {risk_colors['card']}">
             <div class="sm-card-title">🎯 Surgical Risk Level</div>
-            <div class="risk-level-badge {colors['badge']}">{colors['emoji']} &nbsp; {risk}</div>
-            <div class="risk-big-number {colors['big']}">{risk[0]}</div>
+            <div class="risk-level-badge {risk_colors['badge']}">{risk_colors['emoji']} &nbsp; {risk}</div>
+            <div class="risk-big-number {risk_colors['big']}">{risk[0]}</div>
             <div style="font-size:0.78rem;color:var(--text-light);margin-bottom:0.75rem;">
                 {risk.capitalize()} Risk Classification
             </div>
             <div class="confidence-row">
                 <span class="conf-label">Confidence</span>
                 <div class="conf-bar-wrap">
-                    <div class="conf-bar-fill {colors['bar']}" style="width:{conf_flt*100:.0f}%"></div>
+                    <div class="conf-bar-fill {risk_colors['bar']}" style="width:{conf_flt*100:.0f}%"></div>
                 </div>
                 <span class="conf-pct">{conf_str}</span>
             </div>
@@ -985,14 +1112,20 @@ else:
     # ── Export bar ────────────────────────────────────────────────────────────
     st.markdown("---")
     ec1,ec2,ec3,_ = st.columns([1.2,1.2,1.2,2])
-    with ec1:
-        json_data = st_export_report_json() or json.dumps(report, indent=2, default=str)
+    # Inside the "ec_pdf" column of your dashboard
+    if st.session_state.get("report"):
+        report_dict = st.session_state["report"]
+        
+        # Generate the professional PDF
+        pdf_file = generate_professional_pdf(report_dict)
+        
         st.download_button(
-            label     = "⬇️ Export JSON (DB)",
-            data      = json_data,
-            file_name = f"surgimind_{pname.replace(' ','_')}.json",
-            mime      = "application/json",
-            help      = "Downloads the report directly from the database",
+            label="📄 Download Assessment PDF",
+            data=pdf_file,
+            file_name=f"SurgiMind_Report_{report_dict.get('patient_name', 'Report')}.pdf",
+            mime="application/pdf",
+            use_container_width=True,
+            type="primary" # Blue button for prominence
         )
     with ec2:
         csv_data = db.export_all_history_csv(user_id)

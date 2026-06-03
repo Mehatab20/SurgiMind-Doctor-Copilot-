@@ -52,8 +52,8 @@ from utils.helpers import log
 # Modify here only if your dataset changes substantially.
 # =============================================================================
 
-DEFAULT_HIGH_THRESHOLD   = 50   # score >= this  →  HIGH
-DEFAULT_MEDIUM_THRESHOLD = 25   # score >= this  →  MEDIUM  (else LOW)
+DEFAULT_HIGH_THRESHOLD   = 65   # score >= this  →  HIGH
+DEFAULT_MEDIUM_THRESHOLD = 35   # score >= this  →  MEDIUM  (else LOW)
 
 
 # =============================================================================
